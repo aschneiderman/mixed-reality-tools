@@ -11,6 +11,7 @@
 
 [WebVR](https://webvr.info/) is
 
+(Make sure this section isn't  too overwhelming)
 Advantages:
 
 - Don't have to download a separate app
