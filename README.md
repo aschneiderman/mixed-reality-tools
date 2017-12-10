@@ -1,6 +1,6 @@
 # Mixed Reality Tools and Development Platforms
 
-Here are some of the tools [Mixed Reality for All](https://makersall.org/making-ar-more-accessible/) might use:
+Here are  tools [Mixed Reality for All](https://makersall.org/making-ar-more-accessible/) might use:
 
 - [Unity](https://github.com/aschneiderman/mixed-reality-tools/#unity)
 - [WebVR](https://github.com/aschneiderman/mixed-reality-tools/#webvr)  (soon to be known as WebXR)
