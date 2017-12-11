@@ -6,6 +6,7 @@
 - [Unity](https://github.com/aschneiderman/mixed-reality-tools/#unity)
 - [Miscellaneous](https://github.com/aschneiderman/mixed-reality-tools/#miscellaneous-tools) tools
 
+Things to keep in mind when you first start playing around:  what is your experience like?  If you get stuck, where stuck?
 
 ## WebVR
 
@@ -30,9 +31,12 @@ Doesn't include AR just yet, but coming in the near future
 
  - iOS:  Mozilla has an experimental [WebXR Viewer app](https://itunes.apple.com/us/app/webxr-viewer/id1295998056?ls=1&mt=8) that should let you view both AR and VR; for more info, see this [blog post](https://blog.mozvr.com/experimenting-with-ar-and-the-web-on-ios/)
  
+ Take a look at WebVR examples.  But when you're ready to get your hands dirty, start with A-Frame:  it's a lot easier.
 
 [A-Frame](https://aframe.io/)
 
+As you look at A-Frame code, ask yourself, if I were trying to build something in AR in an area I know something about -- e.g., cooking -- what layer would I want on top of A-Frame to make it easier to build stuff in this area?  For ex, what HTML-like tags would I want -- especially if I wasn't  a developer but a "power user"? 
+(Link to [Data Chefs](https://datachefs.org) philosophy of [creating a continuum of tools](https://datachefs.org/goals/continuum/) and  [smoothing the learning curve](https://datachefs.org/goals/smoothcurve/)) among them
 
 - React VR
 
