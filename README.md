@@ -42,6 +42,8 @@ It [works with A-Frame](https://aframe.io/blog/arjs/)
 
 - [WebVR experiments](https://experiments.withgoogle.com/webvr): the latest experiments using WebVR, with links to each experiment's code
 
+Great example of what doing real work in AR/VR might look like: [constructing something  using other people's 3d components](https://mobile.twitter.com/zite00/status/938169740840787969) as you find them  on the web.  FYI, this isn't a mockup,  he's actually doing it; it's powered by  Google's [Poly API](https://developers.google.com/poly/), an API designed to let you "discover, view, and download thousands of free 3D assets directly in your AR and VR apps"
+
 Unlike tools like Unity, WebVR/WebXR doesn't come "with batteries included." For example, WebVR doesn't include a "physics engine," which lets you easily treat objects in VR/AR as if they existed in a world where there's gravity, objects can collide with each other, etc.  But you can easily add one.  Here's a [cool example](https://mobile.twitter.com/Datatitian/status/932021670340124672)    of how you can simulate cloth by combining  A Frame and the physics engine cannonjs.
 
 
