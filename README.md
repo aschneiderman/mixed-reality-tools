@@ -12,7 +12,7 @@ As you begin to learn about AR/VR development, write down a few notes about your
 - Once you learn the basics, what insights, metaphors, etc. did you learn along the way that you wish you'd had at the beginning?
 - If you had to train people in the community how to use a tool/platform, what changes do you think would make it easier to learn?
 
-Before you get started, you might want to watch the short 2 videos that helped give me a better idea of what the less far out that still very useful day-to-day uses of VR/AR might look like:
+Before you get started, you might want to watch the short 2 videos that helped give me a better idea of what the less far out but still very useful day-to-day uses of VR/AR might look like:
 
 - Re-envisioning what using a [word processor](https://www.youtube.com/watch?feature=youtu.be&v=LxviGskApcw&app=desktop) might look like in VR
 -  Constructing a 3D object [using using other people's 3d components](https://mobile.twitter.com/zite00/status/938169740840787969) as you find them  on the web.  
