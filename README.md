@@ -43,9 +43,9 @@ NOTE: usually when someone does a tech project in the community, they  try to on
 
 Once you're ready to get your feet wet developing AR/VR, don't work with WebVR directly. Instead, do what a lot of folks are doing and use a library/platform that is been built on top of it. We will probably end up making heavy use of the most popular platform: [A-Frame](https://aframe.io/).
 
-A-Frame looks like someone saw WebVR and said to themselves, why should I have to write all that JavaScript? Why can't I write in something like HTML. From taking an initial look at it, it looks like A-Frame is well-documented and has lots of examples to learn from; to get started, check out the A-Frame [website]( https://aframe.io/).
+A-Frame looks like someone saw WebVR and said to themselves, why should I have to write all that JavaScript? Why can't I write in something like HTML? From taking an initial look at it, it looks like A-Frame is well-documented and has lots of examples to learn from; to get started, check out the A-Frame [website]( https://aframe.io/).
 
-Mixed Reality for All believes that the best way of making tech development available to as many people as possible is to [create a continuum of tools](https://datachefs.org/goals/continuum/) and  [smooth the learning curve](https://datachefs.org/goals/smoothcurve/)) among them. So, as you start getting comfortable with A-Frame, ask yourself, if I were trying to build something in AR in an area I know something about -- e.g., cooking -- what layer would I want on top of A-Frame to make my work easier? For example, what HTML-like tags would I want -- especially if I wasn't  a developer but a "power user"? 
+Mixed Reality for All believes that the best way of making tech development available to as many people as possible is to [create a continuum of tools](https://datachefs.org/goals/continuum/) and  [smooth the learning curve](https://datachefs.org/goals/smoothcurve/) among them. So, as you start getting comfortable with A-Frame, ask yourself, if I were trying to build something in AR in an area I know something about -- e.g., cooking -- what layer would I want on top of A-Frame to make my work easier? For example, what HTML-like tags would I want, especially if I wasn't  a developer but a "power user"? 
 
 
 
