@@ -15,24 +15,21 @@ As you begin to learn about AR/VR development, write down a few notes about your
 Before you get started, you might want to watch the short 2 videos that helped give me a better idea of what the less far out that still very useful day-to-day uses of VR/AR might look like:
 
 - Re-envisioning what using a [word processor](https://www.youtube.com/watch?feature=youtu.be&v=LxviGskApcw&app=desktop) might look like in VR
--  Constructing a 3D object [using using other people's 3d components](https://mobile.twitter.com/zite00/status/938169740840787969) as you find them  on the web.  FYI, this isn't a mockup,  he's actually doing it; it's powered by  Google's [Poly API](https://developers.google.com/poly/), an API designed to let you "discover, view, and download thousands of free 3D assets directly in your AR and VR apps"
-
+-  Constructing a 3D object [using using other people's 3d components](https://mobile.twitter.com/zite00/status/938169740840787969) as you find them  on the web.  
 
 
 ## WebVR
 
 [WebVR](https://webvr.info/) is a standard for a web-based version of VR; as of October, a new version called WebXR also includes AR. WebVR/WebXR is only a few years old, but it's taken off in the last year, with support from Mozilla, Google, Microsoft, Facebook, and Apple. It has several major advantages:
 
-- It's built on Internet standards, so WebXR pages are linkable, searchable, etc.
-- You don't have to install it and/or download a separate app -- and you can run it off of a USB stick if you don't have an Internet connection
-- It's designed to make it as easy as possible to work across VR/AR headsets, some smart phones, and desktop browsers.
+- Because it's built on Internet standards, WebXR pages are linkable and searchable, and you don't have to install it 
+- It's designed to make it as easy as possible to develop AR/VR pages that work across VR/AR headsets, some smart phones, and desktop browsers.
 - For coding, it uses a very popular programming language: JavaScript 
 - It's open source, which means that we can create libraries & tools on top of it to hide its complexity or to customize it for particular types of work/industries
-- It has a large, robust community
 
 To see what WebVR can do, check out Google's [WebVR experiments](https://experiments.withgoogle.com/webvr) page. 
 
-Here's how to use WebVR (more details on [their website]( https://webvr.info/):
+Here's how to use WebVR (more details on [their website]( https://webvr.info/)):
 
 - Most people working on this project don't own a VR/AR headset, but if you do it's pretty easy to use WebVR. Today most VR/AR headsets cost between a couple hundred to a couple thousand dollars. That's going to change in the next 2 years: in early 2018 Oculus is expected to come out with Oculus Go, which will cost around $300 (I think); in 2019 Microsoft is going to launch the consumer-priced version of their headset (their developer headset now costs $3000); and in 2020 Apple is probably coming out with their headset.
 - [Google Cardboard](https://vr.google.com/cardboard/): a cheapo virtual reality headset that's either literally made out of cardboard or an inexpensive material and which is powered by a smartphone. Google Cardboard has good support for WebVR. Someone on the project will need to explore which smart phones work well with it; I think most Android phones do, but I read conflicting things about iPhones.
