@@ -6,7 +6,7 @@ The following are platforms &  tools  [Mixed Reality for All](https://makersall.
 - [Unity](https://github.com/aschneiderman/mixed-reality-tools/#unity)
 - [Miscellaneous](https://github.com/aschneiderman/mixed-reality-tools/#miscellaneous-tools) tools
 
-As you begin to learn about AR/VR development, write down a few notes about your experience:
+As you begin to learn about AR/VR development, write up a few notes about your experience:
 
 - What was easy to learn, what was hard?
 - Once you learn the basics, what insights, metaphors, etc. did you learn along the way that you wish you'd had at the beginning?
