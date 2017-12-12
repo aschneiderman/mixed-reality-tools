@@ -1,6 +1,6 @@
 # Mixed Reality Tools and Development Platforms
 
-The following are platforms &  tools  [Mixed Reality for All](https://makersall.org/making-ar-more-accessible/)   could use for AR/VR development:
+The following are platforms &  tools  [Mixed Reality for All](https://makersall.org/making-ar-more-accessible/)   may use for AR/VR development:
 
 - [WebVR/WebXR](https://github.com/aschneiderman/mixed-reality-tools/#webvr)
 - [Unity](https://github.com/aschneiderman/mixed-reality-tools/#unity)
