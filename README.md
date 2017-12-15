@@ -2,9 +2,9 @@
 
 The following are platforms &  tools  [Mixed Reality for All](https://makersall.org/making-ar-more-accessible/)   may use for AR/VR development:
 
-- [WebVR/WebXR](https://github.com/aschneiderman/mixed-reality-tools/#webvr)
-- [Unity](https://github.com/aschneiderman/mixed-reality-tools/#unity)
-- [Miscellaneous](https://github.com/aschneiderman/mixed-reality-tools/#miscellaneous-tools) tools
+- [WebVR/WebXR](https://github.com/aschneiderman/mixed-reality-tools/#webvr) and [A-Frame](https://github.com/aschneiderman/mixed-reality-tools/#developing-webvr-using-a-frame): probably our main focus
+- [Miscellaneous tools](https://github.com/aschneiderman/mixed-reality-tools/#miscellaneous-tools): also worth checking out
+- [Unity](https://github.com/aschneiderman/mixed-reality-tools/#unity): might use later
 
 As you begin to learn about AR/VR development, write up a few notes about your experience:
 
@@ -66,6 +66,10 @@ A-Frame should give you plenty to play with. But if you’re feeling particularl
 - [AR.js](https://github.com/jeromeetienne/ar.js): very cool library for AR development that’s built from a combination of WebVR, several of the libraries, and magic fairy dust. Definitely check out some of the amazing examples that he’s created. FYI, AR.js also [works with A-Frame](https://aframe.io/blog/arjs/)
 
 
+## Miscellaneous Tools
+
+- [Sketchfab](https://sketchfab.com/): a website that lets you “publish, share, and explore 3D content on web, mobile, VR, and AR.” You have to purchase some of the content, but there’s a lot of free content on the site. When you start messing around with AR/VR, definitely worth checking out — as well as a [blog post](https://blog.mozvr.com/using-gltf-models-with-a-frame/amp/) on loading Sketchfab content into A-Frame
+- [Google Expeditions](https://edu.google.com/expeditions/): a tool by Google for creating immersive VR journeys, especially for educational purposes. Google is also working on an AR version called Expeditions AR.
 
 ## Unity
 
@@ -75,9 +79,4 @@ A-Frame should give you plenty to play with. But if you’re feeling particularl
 - Unity is a proprietary system, and you have to pay for it if you start making a decent amount of money off of it. Given that WebVR/XR is open source, it’s unclear how long the main tech players will invest in supporting it. And because it’s proprietary, we can’t easily build other libraries/tools on top of it.
 -  Most Unity projects require coding, and Unity uses the programming language C#, which is much harder to learn than JavaScript.
 
-If you are working on Mixed Reality for All, you need to know that Unity exists. But given its drawbacks, it’s unlikely we’ll invest much if any time on it.
-
-## Miscellaneous Tools
-
-- [Sketchfab](https://sketchfab.com/): a website that lets you “publish, share, and explore 3D content on web, mobile, VR, and AR.” You have to purchase some of the content, but there’s a lot of free content on the site. When you start messing around with AR/VR, definitely worth checking out — as well as a [blog post](https://blog.mozvr.com/using-gltf-models-with-a-frame/amp/) on loading Sketchfab content into A-Frame
-- [Google Expeditions](https://edu.google.com/expeditions/): a tool by Google for creating immersive VR journeys, especially for educational purposes. Google is also working on an AR version called Expeditions AR.
+If you are working on Mixed Reality for All, you need to know that Unity exists; a lot of development shops use it becaue it's quite powerful and because there are millions of game developers who already know it, and because until recently WebVR wasn't very well known or as powerful.  But given Unity's drawbacks, it seems unlikely we’ll use it -- at least not in the first year or two.
