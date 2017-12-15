@@ -39,11 +39,19 @@ Here’s how to use WebVR (more details on [their website]( https://webvr.info/)
 
 NOTE: usually when someone does a tech project in the community, they  try to only use tech that virtually everyone will be able to use. Since the goal of Mixed Reality for All is to work on the bleeding edge so we get to influence this emerging tech before it gets set in stone, we will be working with tech that many people can’t fully use now but almost everyone will be able to use in the next few years.
 
-### Developing WebVR: Using A-Frame ###
+## Developing WebVR: Using A-Frame ##
 
 Once you’re ready to get your feet wet developing AR/VR, don’t work with WebVR directly. Instead, do what a lot of folks are doing and use a library/platform that is been built on top of it. We will probably end up making heavy use of the most popular platform: [A-Frame](https://aframe.io/).
 
-A-Frame looks like someone saw WebVR and said to themselves, why should I have to write all that JavaScript? Why can’t I write in something like HTML? From taking an initial look at it, it looks like A-Frame is well-documented and has lots of examples to learn from; to get started, check out the A-Frame [website]( https://aframe.io/).
+A-Frame looks like someone saw WebVR and said to themselves, why should I have to write all that JavaScript? Why can’t I write in something like HTML? A-Frame is well-documented and has lots of examples to learn from.
+
+Some Useful Links:
+
+- Start with A-Frame's [website]( https://aframe.io/); lots of examples, tutorials, etc
+- [A-Frane School](https://aframe.io/aframe-school/#/): an interactive tutorial
+- YouTube tutorial series from [Next Dimension Media](https://www.youtube.com/watch?v=fHFiPGzVhig), [Upper Line School of Code](https://www.youtube.com/watch?v=DDePTwGOWKY), and [Zenva](https://www.youtube.com/watch?v=pVetLvb3deE)
+- More basic and advanced [examples](https://github.com/aframevr/aframe/tree/master/examples)
+- A-Frame's main [documentation](https://aframe.io/docs/0.7.0/introduction/)
 
 Mixed Reality for All believes that the best way of making tech development available to as many people as possible is to [create a continuum of tools](https://datachefs.org/goals/continuum/) and  [smooth the learning curve](https://datachefs.org/goals/smoothcurve/) among them. So, as you start getting comfortable with A-Frame, ask yourself, if I were trying to build something in AR in an area I know something about — e.g., cooking — what layer would I want on top of A-Frame to make my work easier? For example, what HTML-like tags would I want, especially if I wasn’t  a developer but a “power user”? 
 
