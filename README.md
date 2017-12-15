@@ -46,7 +46,7 @@ Once you’re ready to get your feet wet developing AR/VR, don’t work with Web
 Some Useful Links:
 
 - Start with A-Frame's [website]( https://aframe.io/); lots of examples, tutorials, etc
-- [A-Frane School](https://aframe.io/aframe-school/#/): an interactive tutorial
+- [A-Frame School](https://aframe.io/aframe-school/#/): an interactive tutorial
 - YouTube tutorial series from [Next Dimension Media](https://www.youtube.com/watch?v=fHFiPGzVhig), [Upper Line School of Code](https://www.youtube.com/watch?v=DDePTwGOWKY), and [Zenva](https://www.youtube.com/watch?v=pVetLvb3deE)
 - More basic and advanced [examples](https://github.com/aframevr/aframe/tree/master/examples)
 - A-Frame's main [documentation](https://aframe.io/docs/0.7.0/introduction/)
