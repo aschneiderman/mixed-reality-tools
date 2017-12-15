@@ -41,9 +41,7 @@ NOTE: usually when someone does a tech project in the community, they  try to on
 
 ## Developing WebVR: Using A-Frame ##
 
-Once you’re ready to get your feet wet developing AR/VR, don’t work with WebVR directly. Instead, do what a lot of folks are doing and use a library/platform that is been built on top of it. We will probably end up making heavy use of the most popular platform: [A-Frame](https://aframe.io/).
-
-A-Frame looks like someone saw WebVR and said to themselves, why should I have to write all that JavaScript? Why can’t I write in something like HTML? A-Frame is well-documented and has lots of examples to learn from.
+Once you’re ready to get your feet wet developing AR/VR, don’t work with WebVR directly. Instead, do what a lot of people are doing and use a library/platform that is been built on top of it. We'll probably end up making heavy use of the most popular platform: [A-Frame](https://aframe.io/).  A-Frame looks like someone took a lot at WebVR and said,  why should I have to write all that JavaScript? Why can’t I write in something like HTML?
 
 Some Useful Links:
 
