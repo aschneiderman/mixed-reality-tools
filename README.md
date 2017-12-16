@@ -1,6 +1,6 @@
-# Mixed Reality Tools and Development Platforms
+# Mixed Reality Tools and Frameworks for Development
 
-The following are platforms &  tools  [Mixed Reality for All](https://makersall.org/making-ar-more-accessible/)   may use for AR/VR development:
+The following are frameworks &  tools  [Mixed Reality for All](https://makersall.org/making-ar-more-accessible/)   may use for AR/VR development:
 
 - [WebVR/WebXR](https://github.com/aschneiderman/mixed-reality-tools/#webvr) and [A-Frame](https://github.com/aschneiderman/mixed-reality-tools/#developing-webvr-using-a-frame): probably our main focus
 - [Miscellaneous tools](https://github.com/aschneiderman/mixed-reality-tools/#miscellaneous-tools): also worth checking out
@@ -10,7 +10,7 @@ As you are learning AR/VR development, take notes about your experience:
 
 - What was easy to learn, what was hard?
 - Once you learned the basics, what insights, metaphors, etc. do you wish you’d had at the beginning?
-- If you had to train people in the community how to use a particular tool/platform, what changes do you think would make it easier to learn?
+- If you had to train people in the community how to use a particular tool/framework, what changes do you think would make it easier to learn?
 
 Before you get started, you might want to watch the short 2 videos that helped give me a better idea of what the less far out but still very useful day-to-day uses of VR/AR might look like:
 
@@ -41,7 +41,7 @@ NOTE: usually when someone does a tech project in the community, they  try to on
 
 ## Developing WebVR: Using A-Frame ##
 
-Once you’re ready to get your feet wet developing AR/VR, don’t work with WebVR directly. Instead, do what a lot of people are doing and use a library/platform that is been built on top of it. We'll probably end up making heavy use of the most popular platform: [A-Frame](https://aframe.io/).  A-Frame looks like someone took a lot at WebVR and said,  why should I have to write all that JavaScript? Why can’t I write in something like HTML?
+Once you’re ready to get your feet wet developing AR/VR, don’t work with WebVR directly. Instead, do what a lot of people are doing and use a library/framework that's built on top of it. We'll probably end up making heavy use of the most popular platform: [A-Frame](https://aframe.io/).  A-Frame looks like someone took a lot at WebVR and said,  why should I have to write all that JavaScript? Why can’t I mostly work in HTML?
 
 Some Useful Links:
 
@@ -55,11 +55,11 @@ Mixed Reality for All believes that the best way of making tech development avai
 
 
 
-### Developing WebVR: Other Tools/Platforms ###
+### Developing WebVR: Other Tools/Frameworks ###
 
 A-Frame should give you plenty to play with. But if you’re feeling particularly adventurous, here are some of the other ways to work with WebVR you might take a quick glance at.
 
-- [three.js]( https://threejs.org/),  [Canon.JS]( http://www.cannonjs.org/), etc.: Another way people go is to combine other JavaScript libraries with WebVR. One popular library is three.js. Some of these libraries allow you to add features to WebVR.  For example, WebVR doesn’t include a “physics engine,” which lets you easily treat objects in VR/AR as if they existed in a world where there’s gravity, objects can collide with each other, etc.  But you can easily add one.  Here’s a [cool example](https://mobile.twitter.com/Datatitian/status/932021670340124672)    of how you can simulate cloth by combining A-Frame and the physics engine cannonjs.
+- [three.js]( https://threejs.org/),  [Canon.JS]( http://www.cannonjs.org/), etc.: Another way people go is to combine other JavaScript libraries with WebVR. One popular library is three.js. Some of these libraries allow you to add features to WebVR.  For example, WebVR doesn’t include a “physics engine,” which lets you easily treat objects in VR/AR as if they existed in a world where there’s gravity, objects can collide with each other, etc.  But you can easily add one.  Here’s a [cool example](https://mobile.twitter.com/Datatitian/status/932021670340124672) of how you can simulate cloth by combining A-Frame and the physics engine cannonjs.
 - [React VR](https://facebook.github.io/react-vr/): if you are a web developer and you use [React](https://facebook.github.io/react-vr/), you might want to check this out
 - [AR.js](https://github.com/jeromeetienne/ar.js): very cool library for AR development that’s built from a combination of WebVR, several of the libraries, and magic fairy dust. Definitely check out some of the amazing examples that he’s created. FYI, AR.js also [works with A-Frame](https://aframe.io/blog/arjs/)
 
