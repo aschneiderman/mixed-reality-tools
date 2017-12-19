@@ -48,7 +48,7 @@ Some Useful Links:
 - Start with A-Frame's [website]( https://aframe.io/); lots of examples, tutorials, etc
 - [A-Frame School](https://aframe.io/aframe-school/#/): an interactive tutorial
 - YouTube tutorial series from [Next Dimension Media](https://www.youtube.com/watch?v=fHFiPGzVhig), [Upper Line School of Code](https://www.youtube.com/watch?v=DDePTwGOWKY), and [Zenva](https://www.youtube.com/watch?v=pVetLvb3deE)
-- More basic and advanced [examples](https://github.com/aframevr/aframe/tree/master/examples)
+- A-Frame's [main examples](https://aframe.io/aframe/examples/)  ([source code](https://github.com/aframevr/aframe/tree/master/examples))
 - A-Frame's main [documentation](https://aframe.io/docs/0.7.0/introduction/)
 
 Mixed Reality for All believes that the best way of making tech development available to as many people as possible is to [create a continuum of tools](https://datachefs.org/goals/continuum/) and  [smooth the learning curve](https://datachefs.org/goals/smoothcurve/) among them. So, as you start getting comfortable with A-Frame, ask yourself, if I were trying to build something in AR in an area I know something about — e.g., cooking — what layer would I want on top of A-Frame to make my work easier? For example, what HTML-like tags would I want, especially if I wasn’t  a developer but a “power user”? 
